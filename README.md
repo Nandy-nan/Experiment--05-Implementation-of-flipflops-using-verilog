@@ -112,23 +112,70 @@ Program for flipflops  and verify its truth table in quartus using Verilog progr
 Developed by: 
 RegisterNumber:  
 */
+## T Flipflop: 
+![Screenshot 2024-01-02 043434](https://github.com/Nandy-nan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153698914/e607537b-7896-4355-b5e5-314a632665fa)
+
+
+D Flipflop:
+![Screenshot 2024-01-02 043442](https://github.com/Nandy-nan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153698914/ecc5f440-18c9-4dd0-b585-9fc976e0c39e)
+
+
+SR Flipglop:
+
+
+![Screenshot 2024-01-02 043448](https://github.com/Nandy-nan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153698914/363f118b-e14d-4fc4-96f5-3816d7a25901)
+
+JK Flipflop:
+
+![Screenshot 2024-01-02 043456](https://github.com/Nandy-nan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153698914/0d5a2791-4b65-4edf-a63d-343226232d69)
+
+
+
+##RTL:
+
+
+
+![Screenshot 2024-01-02 043504](https://github.com/Nandy-nan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153698914/bc7dddad-e452-46ca-ab58-9131886e1879)
+
+
+![Screenshot 2024-01-02 043510](https://github.com/Nandy-nan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153698914/644e8c13-3630-46a3-baa4-f9874f35658e)
+
+
+
+
+![Screenshot 2024-01-02 043518](https://github.com/Nandy-nan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153698914/3feb3850-12f7-4c38-a950-66accf15fb03)
+
+
+
+![Screenshot 2024-01-02 043526](https://github.com/Nandy-nan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153698914/d47584c2-e78f-453f-8a21-fd4bbcc1b21b)
+
+
+
+## OUTPUTT:
+
+
+
+![Screenshot 2024-01-02 043536](https://github.com/Nandy-nan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153698914/018e30cf-4129-48c2-8efe-d581f0ceb04e)
+
+
+![Screenshot 2024-01-02 043607](https://github.com/Nandy-nan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153698914/685d634e-9053-459b-8f96-c44f8bf36936)
+
+
+
+![Screenshot 2024-01-02 043616](https://github.com/Nandy-nan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153698914/f7c6eefb-75b2-461a-a148-aa9a210df499)
+
+
+
+![Screenshot 2024-01-02 043625](https://github.com/Nandy-nan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153698914/0a426fd8-4a2a-4194-9e97-38c8f257df7a)
 
 
 
 
 
 
-### RTL LOGIC FOR FLIPFLOPS 
 
 
 
-
-
-
-
-
-
-### TIMING DIGRAMS FOR FLIP FLOPS 
 
 
 
