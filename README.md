@@ -117,6 +117,7 @@ RegisterNumber:
 
 
 D Flipflop:
+
 ![Screenshot 2024-01-02 043442](https://github.com/Nandy-nan/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153698914/ecc5f440-18c9-4dd0-b585-9fc976e0c39e)
 
 
